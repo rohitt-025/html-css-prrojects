@@ -1,6 +1,5 @@
 var DRUM_TEXTURE = "https://keithclark.co.uk/labs/css-fps/drum2.png";
 
-// Assembiles are for grouping faces and other assembiles
 function createAssembly() {
     var assembly = document.createElement("div");
     assembly.className = "threedee assembly";
